@@ -1,0 +1,173 @@
+/* Images */
+
+.europa-img {
+    width: 10rem;
+    border-radius: 50%;
+    float: right;
+}
+.titan-img {
+    width: 10rem;
+    border-radius: 50%;
+    float: left;
+    margin-right: 2rem;
+}
+.strange-moon {
+    border-radius: 50%;
+    width: 10rem;
+
+}
+.yellow-moon {
+    width: 10rem;
+    border-radius: 50%;
+    position: relative;
+    top: 12rem;
+    right: 80%;
+}
+.moon {
+    width: 10rem;
+    border-radius: 50%;
+    position: relative;
+    top: 13rem;
+    left: 60%;
+}
+
+/* Custom Classes */
+
+.text-align-center {
+    text-align: center;
+}
+.text-align-left {
+    text-align: left;
+}
+.text-align-right {
+    text-align: right;
+}
+.white-text {
+    color: #fff;
+}
+.montserrat {
+    font-family: "Montserrat";
+}
+
+/* Navbar */
+
+.my-navbar {
+    background-color: #519259;
+    font-family: "Montserrat";
+}
+.my-navbar:hover {
+    background-color: #064635;
+}
+.my-navbar-brand {
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    color: #fff;
+}
+.my-navbar-brand:hover {
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    color: #fffff1;
+}
+.noselect {
+    user-select: none;
+}	
+
+/* Header Section */
+
+#header {
+    background-color: #519259;
+    font-family: "Ubuntu";
+    padding: 2rem 20% 10rem;
+}
+
+/* Titan Section */
+
+#titan {
+    padding: 7% 15% 7% 10%;
+    font-family: "Montserrat";
+    margin-bottom: 7rem;
+}
+.rotworm-text {
+    margin-top: 3rem;
+}
+.rotworm-image {
+    margin-left: 2rem;
+    border-radius: 50%;
+    width: 13rem;
+    float: right;
+}
+.lava-lizard-image {
+    margin-right: 2rem;
+    margin-top: 6rem;
+    border-radius: 50%;
+    width: 10rem;
+    float: left;
+}
+.lava-lizard-text {
+    margin-top: 8rem;
+}
+.alien-life-forms-title {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+/* Europa Section */
+
+.europa-text {
+    padding: 5% 10%;
+    line-height: 1.5;
+}
+#europa {
+    background-color: #064635;
+}
+.carousel-image {
+    border-radius: 50%;
+    width: 20rem;
+}
+.carousel-item {
+    text-align: center;
+    font-family: "Montserrat";
+    padding: 7% 15%;
+    color: #fff;
+}
+.carousel-title {
+    text-align: center;
+    font-family: "Montserrat";
+    padding: 7% 15% 3%;
+    color: #fff;
+}
+
+/* Footer Section */
+
+#footer {
+    text-align: center;
+}
+.footer-contacts {
+    color: black;
+    padding: 3% 0.5%;
+}
+
+/* Bounce Animation */
+
+/* .text:hover,.box:hover {
+    animation: bounce 1s linear;
+}
+
+@keyframes bounce {
+    20%,50%,80%,to{
+        transform: translateY(0);
+    }
+    40%{
+        transform: translateY(-30px);
+    }
+    70%{
+        transform: translateY(-15px);
+    }
+    90%{
+        transform: translateY(-4px);
+    }
+} */
